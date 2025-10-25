@@ -1,0 +1,35 @@
+{
+      "testTitle": "Writing Practice Test 7",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The bar chart shows the average size class in primary schools and lower secondary schools in 6 countries compared to the world average in 2006.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Bar chart showing average class size in schools"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "More and more people want to buy clothes, cars and other items from famous brands. What are the reasons? Do you think it is a positive or negative development?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }

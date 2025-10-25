@@ -1,0 +1,39 @@
+ {
+      "testTitle": "Writing Practice Test 9",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The charts below show the performance of a bus company in terms of punctuality, both actual and target (what actually happened compared to what the company was trying to achieve), and the number of complaints and passengers.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Chart showing bus company punctuality performance"
+            },
+            {
+              "url": "",
+              "altText": "Chart showing number of complaints and passengers"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Some people think movies should only be for entertainment. Others think that they should also have educational values. Discuss both views and give your opinion.",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }

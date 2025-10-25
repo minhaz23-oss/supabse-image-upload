@@ -1,0 +1,35 @@
+{
+      "testTitle": "Writing Practice Test 6",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The graph below shows the production levels of main fuels in a European country from 1981 to 2000. Measured in tonnes.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Graph showing production levels of main fuels"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "In most successful organizations, some people believe that communication between managers and workers are the most important factor, other people say that other factors are more important. Discuss both views and give your opinion.",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }

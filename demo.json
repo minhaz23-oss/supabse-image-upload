@@ -1,0 +1,362 @@
+{
+  "tests": [
+    {
+      "testTitle": "Writing Practice Test 16",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The bar chart shows the number of cars per 1000 people in 5 European countries in 3 years and compares with the European average.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Bar chart showing number of cars per 1000 people in European countries"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "These days, a great number of children prefer spending time on computer games rather than on sports. Why Is it a positive or negative development?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 17",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The chart below gives information about car ownership in the UK from 1975 to 2005. (percentage)",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Chart showing car ownership in the UK"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Many business owners find that their staff lack sufficient interpersional skills such as the ability to cooperate their coworkers. What are the causes? Can you suggest some possible solutions?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 18",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The chart shows the employment status of adults in the US in 2003 and 2013.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Chart showing employment status of adults in the US"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Advertising has become part of everyone's life. Some people say that advertising has a positive impact on our lives. To what extent do you agree or disagree?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 19",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The bar chart shows the distribution of employment among agriculture, services, industries in three countries in 1980 and projected distribution in 2020.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Bar chart showing employment distribution in 1980"
+            },
+            {
+              "url": "",
+              "altText": "Bar chart showing projected employment distribution in 2020"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "In many cities, there is little control on the design and construction of new houses, so people can choose to build houses in their own styles instead of building them with the same style as the old houses in the local area. Do the advantages outweigh the disadvantages?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 20",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The table below shows the salaries of secondary/high school teachers in 2009.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Table showing salaries of secondary/high school teachers"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Many developing countries are currently expanding their tourism industries. Why is this the case? Is it a positive development?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 21",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The chart below shows the number of jobs in tourism-related industries in one UK city between 1989 and 2009.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Chart showing number of jobs in tourism-related industries"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "In many nations, people in huge cites either live alone or in small family units, instead of a large, extended family. Is this a positive or negative trend?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 22",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The chart shows the number of students in a UK university who completed (on time or late), failed to write, and rewrote their dissertation in 1990, 2000, 2010.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Chart showing student dissertation completion status"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Many museums and historical sites are mainly visited by tourists but not local people. Why is it the case? What can be done to attract more local people to visit these places?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 23",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The bar chart shows expectation to change of European young people in the next 20 years in 5 different areas.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Bar chart showing expectations of European young people"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Some people think that sending criminals to prison is not effective. Education and job training should be used instead. Do you agree or disagree?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 24",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The charts show the percentage of boys and girls aged 5-14 taking part in cultural activities and sports in Australia in 2003.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Chart showing percentage of children in cultural activities"
+            },
+            {
+              "url": "",
+              "altText": "Chart showing percentage of children in sports"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "Today food travels from thousands of miles from the farm to the consumer. Some people say that it would be better for the economy & environment if people ate food produced from local farmers. Would the advantages of this idea outweigh the disadvantages?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    },
+    {
+      "testTitle": "Writing Practice Test 25",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The graph below shows the percentage of Australian exports to 4 countries from 1990 to 2012",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Graph showing percentage of Australian exports"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "It has been said that people who read for pleasure have more developed imaginations and better language skills than people who prefer to watch TV. Do you agree or disagree?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }
+  ]
+}

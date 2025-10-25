@@ -1,0 +1,41 @@
+﻿{
+    "testTitle":  "Writing Practice Test 19",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The bar chart shows the distribution of employment among agriculture, services, industries in three countries in 1980 and projected distribution in 2020.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Bar chart showing employment distribution in 1980"
+                                     },
+                                     {
+                                         "url":  "",
+                                         "altText":  "Bar chart showing projected employment distribution in 2020"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "In many cities, there is little control on the design and construction of new houses, so people can choose to build houses in their own styles instead of building them with the same style as the old houses in the local area. Do the advantages outweigh the disadvantages?",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

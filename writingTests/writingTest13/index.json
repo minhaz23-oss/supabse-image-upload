@@ -1,0 +1,39 @@
+{
+      "testTitle": "Writing Practice Test 13",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "Plan A below shows the ground floor of a particular art gallery in 2005. Plan B shows the same area in the present day.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Plan A showing art gallery ground floor in 2005"
+            },
+            {
+              "url": "",
+              "altText": "Plan B showing art gallery ground floor in present day"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "In many countries, people like to eat a wider variety of food than can be grown in their local area. As a result, much of the food people eat today has to come from other regions. Do you think the advantages of this development outweigh disadvantages?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }

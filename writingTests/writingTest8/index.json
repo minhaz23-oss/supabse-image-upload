@@ -1,0 +1,43 @@
+{
+      "testTitle": "Writing Practice Test 8",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The illustration shows information about how igloo is build from snow",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Illustration showing how igloo is built - step 1"
+            },
+            {
+              "url": "",
+              "altText": "Illustration showing how igloo is built - step 2"
+            },
+            {
+              "url": "",
+              "altText": "Illustration showing how igloo is built - step 3"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "The world of work is rapidly changing and employees cannot depend on having the same job or the same working conditions for life. Discuss the possible causes and suggest ways to prepare people to work in the future.",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }

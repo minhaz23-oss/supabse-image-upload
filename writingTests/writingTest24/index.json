@@ -1,0 +1,41 @@
+﻿{
+    "testTitle":  "Writing Practice Test 24",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The charts show the percentage of boys and girls aged 5-14 taking part in cultural activities and sports in Australia in 2003.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Chart showing percentage of children in cultural activities"
+                                     },
+                                     {
+                                         "url":  "",
+                                         "altText":  "Chart showing percentage of children in sports"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "Today food travels from thousands of miles from the farm to the consumer. Some people say that it would be better for the economy \u0026 environment if people ate food produced from local farmers. Would the advantages of this idea outweigh the disadvantages?",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

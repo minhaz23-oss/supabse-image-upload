@@ -1,0 +1,35 @@
+{
+      "testTitle": "Writing Practice Test 11",
+      "testType": "ielts writing mock test",
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "timeAllocation": "20 minutes",
+          "instructions": "You should spend about 20 minutes on this task",
+          "description": "The flow chart below shows the procedures to get a driving license in US.",
+          "hasImage": true,
+          "images": [
+            {
+              "url": "",
+              "altText": "Flow chart showing procedures to get a driving license in US"
+            }
+          ],
+          "minimumWords": 150,
+          "taskRequirements": "Write at least 150 words."
+        },
+        {
+          "taskNumber": 2,
+          "timeAllocation": "40 minutes",
+          "instructions": "You should spend about 40 minutes on this task",
+          "promptIntro": "Write about the following topic:",
+          "topic": "In some countries, small town-centre shops are going out of business because people tend to drive to large out-of-town stores. As a result, people without cars have limited access to out-of-town stores, and it may result in an increase in the use of cars. Do you think the disadvantages of this change outweigh its advantages?",
+          "hasImage": false,
+          "images": [],
+          "requirements": [
+            "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+          ],
+          "minimumWords": 250,
+          "taskRequirements": "Write at least 250 words."
+        }
+      ]
+    }
