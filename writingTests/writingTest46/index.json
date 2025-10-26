@@ -1,0 +1,37 @@
+﻿{
+    "testTitle":  "Writing Practice Test 46",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The chart below gives information about the growth of urban population in certain parts of the world including the prediction of the future.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Chart showing growth of urban population"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "In some countries, young people have become richer, healthier, and live longer, but they are less happy. What are the causes? What can be done to address this situation?",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

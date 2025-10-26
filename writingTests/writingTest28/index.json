@@ -1,0 +1,41 @@
+﻿{
+    "testTitle":  "Writing Practice Test 28",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The table below gives information about the temperatures and hours of daylight during the same weekend in two cites in May 2007.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Table showing temperatures in two cities"
+                                     },
+                                     {
+                                         "url":  "",
+                                         "altText":  "Table showing hours of daylight in two cities"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "In many countries, the costs of living are rising. What are the effects on individuals and society? Suggest solutions to this problem.",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

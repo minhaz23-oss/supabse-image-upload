@@ -1,0 +1,37 @@
+﻿{
+    "testTitle":  "Writing Practice Test 36",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The line graph below shows the oil production and consumption in China between 1982 and 2006.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Line graph showing oil production and consumption in China"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "People often think about creating an ideal society, but most of the times fail in making this happen. What is your opinion about an ideal society How can we create an ideal society?",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

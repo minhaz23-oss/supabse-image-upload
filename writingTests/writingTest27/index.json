@@ -1,0 +1,37 @@
+﻿{
+    "testTitle":  "Writing Practice Test 27",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The table shows the cost of water in 5 cities in Australia",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Table showing cost of water in Australian cities"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "Students should be taught academic knowledge so that they can pass exams, and skills such as cooking or dressing should not be taught. To what extent do you agree/disagree?",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

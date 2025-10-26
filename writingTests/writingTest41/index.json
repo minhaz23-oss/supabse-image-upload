@@ -1,0 +1,37 @@
+﻿{
+    "testTitle":  "Writing Practice Test 41",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The bar chart shows the percentage of the total world population in 4 countries in 1950 and 2003, and projections for 2050.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Bar chart showing world population percentages"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "Nowadays a large amount of advertising aimed at children should be banned because of the negative effects. To what extent do you agree or disagree?",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}

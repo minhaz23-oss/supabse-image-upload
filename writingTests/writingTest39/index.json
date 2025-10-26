@@ -1,0 +1,41 @@
+﻿{
+    "testTitle":  "Writing Practice Test 39",
+    "testType":  "ielts writing mock test",
+    "tasks":  [
+                  {
+                      "taskNumber":  1,
+                      "timeAllocation":  "20 minutes",
+                      "instructions":  "You should spend about 20 minutes on this task",
+                      "description":  "The maps below show a bookstore in 2000 and now. Summaries the information by selecting and reporting the main features, and make comparisons where relevant.",
+                      "hasImage":  true,
+                      "images":  [
+                                     {
+                                         "url":  "",
+                                         "altText":  "Map showing bookstore in 2000"
+                                     },
+                                     {
+                                         "url":  "",
+                                         "altText":  "Map showing bookstore now"
+                                     }
+                                 ],
+                      "minimumWords":  150,
+                      "taskRequirements":  "Write at least 150 words."
+                  },
+                  {
+                      "taskNumber":  2,
+                      "timeAllocation":  "40 minutes",
+                      "instructions":  "You should spend about 40 minutes on this task",
+                      "promptIntro":  "Write about the following topic:",
+                      "topic":  "Many young people now know more about international pop and movie stars than famous people in the history of their countries. What are the causes? Give solutions to increase the number of people to know about famous people in history.",
+                      "hasImage":  false,
+                      "images":  [
+
+                                 ],
+                      "requirements":  [
+                                           "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+                                       ],
+                      "minimumWords":  250,
+                      "taskRequirements":  "Write at least 250 words."
+                  }
+              ]
+}
